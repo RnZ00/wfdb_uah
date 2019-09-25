@@ -1,0 +1,14 @@
+C:\Users\renzo\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.csprojAssemblyReference.cache
+C:\Users\renzo\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\ProyectoWFDB\ProyectoWFDB\bin\Debug\ProyectoWFDB.exe.config
+C:\Users\renzo\source\repos\ProyectoWFDB\ProyectoWFDB\bin\Debug\ProyectoWFDB.exe
+C:\Users\renzo\source\repos\ProyectoWFDB\ProyectoWFDB\bin\Debug\ProyectoWFDB.pdb
+C:\Users\renzo\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.exe
+C:\Users\renzo\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.pdb
+C:\Users\rjroca\source\repos\ProyectoWFDB\ProyectoWFDB\bin\Debug\ProyectoWFDB.exe.config
+C:\Users\rjroca\source\repos\ProyectoWFDB\ProyectoWFDB\bin\Debug\ProyectoWFDB.exe
+C:\Users\rjroca\source\repos\ProyectoWFDB\ProyectoWFDB\bin\Debug\ProyectoWFDB.pdb
+C:\Users\rjroca\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.csprojAssemblyReference.cache
+C:\Users\rjroca\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.csproj.CoreCompileInputs.cache
+C:\Users\rjroca\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.exe
+C:\Users\rjroca\source\repos\ProyectoWFDB\ProyectoWFDB\obj\Debug\ProyectoWFDB.pdb

@@ -1,0 +1,82 @@
+Record sleep-edfx/sleep-cassette/SC4001E0-PSG.edf
+Starting time: [16:13:00.000 24/04/1989]
+Length: 22:05:00.000 (2650 sample intervals)
+Sampling frequency: 0.0333333333333 Hz
+7 signals
+Group 0, Signal 0:
+ File: SC4001E0-PSG.edf
+ Description: EEG Fpz-Cz
+ Gain: 10.6640625 adu/uV
+ Initial value: 0
+ Storage format: 16 (3000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 12 bits
+ ADC zero: 0
+ Baseline: -1
+ Checksum: 0
+Group 0, Signal 1:
+ File: SC4001E0-PSG.edf
+ Description: EEG Pz-Oz
+ Gain: 10.4198473282 adu/uV
+ Initial value: 0
+ Storage format: 16 (3000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 12 bits
+ ADC zero: 0
+ Baseline: 5
+ Checksum: 0
+Group 0, Signal 2:
+ File: SC4001E0-PSG.edf
+ Description: EOG horizontal
+ Gain: 2.02923686819 adu/uV
+ Initial value: 0
+ Storage format: 16 (3000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 12 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0
+Group 0, Signal 3:
+ File: SC4001E0-PSG.edf
+ Description: Resp oro-nasal
+ Gain: 1 adu/
+ Initial value: 0
+ Storage format: 16 (30 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 12 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0
+Group 0, Signal 4:
+ File: SC4001E0-PSG.edf
+ Description: EMG submental
+ Gain: 500 adu/uV
+ Initial value: 0
+ Storage format: 16 (30 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 13 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0
+Group 0, Signal 5:
+ File: SC4001E0-PSG.edf
+ Description: Temp rectal
+ Gain: 930 adu/DegC
+ Initial value: -58
+ Storage format: 16 (30 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 13 bits
+ ADC zero: -58
+ Baseline: -34469
+ Checksum: 0
+Group 0, Signal 6:
+ File: SC4001E0-PSG.edf
+ Description: Event marker
+ Gain: 1 adu/
+ Initial value: 1
+ Storage format: 16 (30 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 12 bits
+ ADC zero: 1
+ Baseline: 0
+ Checksum: 0

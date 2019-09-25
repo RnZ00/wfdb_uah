@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFDB", "ProyectoWFDB\WFDB.csproj", "{0EDF0299-C8F6-432E-B34F-E2EFDCB41A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFDB.TEST", "WFDB_Test\WFDB.TEST.csproj", "{B747224A-1484-4876-BE8F-7561BF68A6C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDF0299-C8F6-432E-B34F-E2EFDCB41A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDF0299-C8F6-432E-B34F-E2EFDCB41A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDF0299-C8F6-432E-B34F-E2EFDCB41A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDF0299-C8F6-432E-B34F-E2EFDCB41A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B747224A-1484-4876-BE8F-7561BF68A6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B747224A-1484-4876-BE8F-7561BF68A6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B747224A-1484-4876-BE8F-7561BF68A6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B747224A-1484-4876-BE8F-7561BF68A6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE45B0D9-4F13-47C4-8C5E-C16C6B9809EF}
+	EndGlobalSection
+EndGlobal

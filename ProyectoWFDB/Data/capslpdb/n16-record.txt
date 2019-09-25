@@ -1,0 +1,60 @@
+Record capslpdb/n16.edf
+Starting time: [22:34:47.000 01/01/2006]
+Length:  8:33:20.000 (3080 sample intervals)
+Sampling frequency: 0.1 Hz
+5 signals
+Group 0, Signal 0:
+ File: n16.edf
+ Description: Fp2-F4
+ Gain: 44.9629200334 adu/uV
+ Initial value: 0
+ Storage format: 16 (1000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 16 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0
+Group 0, Signal 1:
+ File: n16.edf
+ Description: F4-C4
+ Gain: 44.9629200334 adu/uV
+ Initial value: 0
+ Storage format: 16 (1000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 16 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0
+Group 0, Signal 2:
+ File: n16.edf
+ Description: C4-P4
+ Gain: 44.9629200334 adu/uV
+ Initial value: 0
+ Storage format: 16 (1000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 16 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0
+Group 0, Signal 3:
+ File: n16.edf
+ Description: P4-O2
+ Gain: 44.9629200334 adu/uV
+ Initial value: 0
+ Storage format: 16 (1000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 16 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0
+Group 0, Signal 4:
+ File: n16.edf
+ Description: C4-A1
+ Gain: 44.9629200334 adu/uV
+ Initial value: 0
+ Storage format: 16 (1000 samples per frame)
+ I/O: can be unbuffered
+ ADC resolution: 16 bits
+ ADC zero: 0
+ Baseline: 0
+ Checksum: 0

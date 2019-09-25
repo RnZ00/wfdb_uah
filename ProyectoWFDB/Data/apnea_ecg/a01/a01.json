@@ -1,0 +1,40 @@
+{
+  "Name": "a01",
+  "NumberOfSegments": 1,
+  "NumberOfSignals": 1,
+  "SamplingFrequencyPerSignal": 100.0,
+  "SamplingIntervalPerSignal": 0.01,
+  "NumberOfSamplesPerSignal": 2957000,
+  "StartDateTime": null,
+  "DurationInSeconds": 29570.0,
+  "CounterFrequency": 100.0,
+  "BaseCounter": 0.0,
+  "NumberOfFrames": 2957000,
+  "FrameFrequency": 100.0,
+  "FrameInterval": 0.01,
+  "Info": [],
+  "Signals": [
+    {
+      "FileName": "a01.dat",
+      "Group": 0,
+      "Number": 0,
+      "Description": "ECG",
+      "InitValue": -12,
+      "Gain": 200.0,
+      "Baseline": 0,
+      "Format": 16,
+      "Units": "mV",
+      "SamplesPerFrame": 1,
+      "BlockSize": 0,
+      "AdcResolution": 12,
+      "AdcZero": 0,
+      "NumberOfSamples": 2957000,
+      "CheckSum": 5827,
+      "Skew": 0,
+      "ByteOffset": 0,
+      "SamplingFrequency": 100.0,
+      "SamplingInterval": 0.01,
+      "Samples": []
+    }
+  ]
+}

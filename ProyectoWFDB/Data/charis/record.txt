@@ -1,0 +1,38 @@
+Record charisdb/charis10
+Starting time: not specified
+Length: 118:12:55.460 (21278773 sample intervals)
+Sampling frequency: 50 Hz
+3 signals
+Group 0, Signal 0:
+ File: charis10.dat
+ Description: ABP
+ Gain: 80.1184 adu/mmHg
+ Initial value: 0
+ Storage format: 16
+ I/O: can be unbuffered
+ ADC resolution: 0 bits
+ ADC zero: 0
+ Baseline: 15
+ Checksum: 14831
+Group 0, Signal 1:
+ File: charis10.dat
+ Description: ECG
+ Gain: 6081.8245 adu/mV
+ Initial value: 0
+ Storage format: 16
+ I/O: can be unbuffered
+ ADC resolution: 0 bits
+ ADC zero: 0
+ Baseline: -392
+ Checksum: 31037
+Group 0, Signal 2:
+ File: charis10.dat
+ Description: ICP
+ Gain: 80.2506 adu/mmHg
+ Initial value: 0
+ Storage format: 16
+ I/O: can be unbuffered
+ ADC resolution: 0 bits
+ ADC zero: 0
+ Baseline: -179
+ Checksum: -17898
